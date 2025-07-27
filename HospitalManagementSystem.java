@@ -1,10 +1,11 @@
 import java.util.ArrayList;
 import java.util.Scanner;
+//OOPS PROJECT(USES INHERITANCE,POLYMORPHISM,ENCAPSULATION,ABSTRACTION)
 
 // Abstract base class (Abstraction)
 abstract class Person {
-    private String name;
-    private int age;
+    private final String name;
+    private final int age;
 
     public Person(String name, int age) {
         this.name = name;
