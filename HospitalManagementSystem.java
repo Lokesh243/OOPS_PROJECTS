@@ -2,8 +2,9 @@ import java.util.ArrayList;
 import java.util.Scanner;
 //OOPS PROJECT(USES INHERITANCE,POLYMORPHISM,ENCAPSULATION,ABSTRACTION)
 
-// Abstract base class (Abstraction)
+// Abstract base class   (LOKESH PROJECT)
 abstract class Person {
+    //abstract class
     private final String name;
     private final int age;
 
