@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
+//newproject123
 //OOPS PROJECT(USES INHERITANCE,POLYMORPHISM,ENCAPSULATION,ABSTRACTION)
 
 // Abstract base class   (LOKESH PROJECT)
@@ -10,7 +11,7 @@ abstract class Person {
 
     public Person(String name, int age) {
         this.name = name;
-        this.age = age;
+        this.age = age; 
     }
 
     // Encapsulated accessors
